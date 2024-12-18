@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation.txt" added="2024-12-16T07:50:52.273730Z" modified="2024-12-16T07:50:52.273753Z" visited="2024-12-16T07:50:52.273731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.273734Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(1).txt" added="2024-12-16T07:50:52.280132Z" modified="2024-12-16T07:50:52.280143Z" visited="2024-12-16T07:50:52.280133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.280137Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(2).txt" added="2024-12-16T07:50:52.281604Z" modified="2024-12-16T07:50:52.281615Z" visited="2024-12-16T07:50:52.281605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.281609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(3).txt" added="2024-12-16T07:50:52.283554Z" modified="2024-12-16T07:50:52.283566Z" visited="2024-12-16T07:50:52.283555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.283559Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(4).txt" added="2024-12-16T07:50:52.285824Z" modified="2024-12-16T07:50:52.285834Z" visited="2024-12-16T07:50:52.285825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.285828Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(5).txt" added="2024-12-16T07:50:52.285887Z" modified="2024-12-16T07:50:52.285897Z" visited="2024-12-16T07:50:52.285887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.285890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(6).txt" added="2024-12-16T07:50:52.293971Z" modified="2024-12-16T07:50:52.293987Z" visited="2024-12-16T07:50:52.293973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.293978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(7).txt" added="2024-12-16T07:50:52.294054Z" modified="2024-12-16T07:50:52.294069Z" visited="2024-12-16T07:50:52.294056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:52.294060Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(8).txt" added="2024-12-16T07:50:53.274766Z" modified="2024-12-16T07:50:53.274784Z" visited="2024-12-16T07:50:53.274768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:50:53.274778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/vboxuser/Downloads/Docker%20Installation(9).txt" added="2024-12-16T07:51:03.630926Z" modified="2024-12-16T07:51:03.630938Z" visited="2024-12-16T07:51:03.630928Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-12-16T07:51:03.630931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
